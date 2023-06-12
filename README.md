@@ -45,8 +45,6 @@ After you're finished please remove all the comments and instructions!
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -133,8 +131,6 @@ Terminal commands:
 To run the project, execute the following command:
 
 Open liveserver in VS Code
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
